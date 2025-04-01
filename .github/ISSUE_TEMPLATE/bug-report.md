@@ -7,31 +7,10 @@ assignees: ''
 
 ---
 
-**Environment (please complete):**
-way to get: left-click the TRAE icon in the top-left corner, then select "About TRAE"
- - Version: 
- - VS Code Version: 
- - Commit: 
- - Date: 
- - Electron: 
- - Node.js: 
- - V8: 
- - OS: 
- - Build Version: 
- - Machine Id: 
+Hello, to further improve the efficiency of handling bugs, we have tried using Feishu collection forms to gather bug information. In the collection form, you can fill in according to the pattern we have set, which will greatly improve our efficiency in handling bugs. Thank you very much!
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+🔗 Collection form link: https://bytedance.larkoffice.com/share/base/form/shrcnDFG2R6qqguSROt9GYUnSTc
 
-**Screenshots**
-Add screenshots to help explain your problem.
+⚠️ After filling out the form, please pay attention to the Feishu account you used for filling out the form. We may contact you further.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+Thank you very much for your feedback!

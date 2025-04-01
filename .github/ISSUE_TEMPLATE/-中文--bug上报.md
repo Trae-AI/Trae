@@ -7,24 +7,10 @@ assignees: Trae-AI-Admin
 
 ---
 
-**基础信息**
-🚨 快速获取方式：左键左上角 TRAE 图标，选择"About Trae"，复制粘贴全部信息👇
- - Version: 
- - VS Code Version: 
- - Commit: 
- - Date: 
- - Electron: 
- - Node.js: 
- - V8: 
- - OS: 
- - Build Version: 
- - Machine Id: 
+您好，为了进一步提升 Bug 处理的效率，我们尝试使用飞书收集表进行 Bug 的收敛。在收集表中，您可以按照我们设定的模式进行填写，这会极大提升我们处理 Bug 的效率，我们也会优先处理收集表中的Issue，非常感谢！
 
-**Bug描述**
+🔗收集表链接：https://bytedance.larkoffice.com/share/base/form/shrcnDFG2R6qqguSROt9GYUnSTc
 
-**截图 / 录屏**
+⚠️ 在填写后，请留意您填写收集表所用的飞书账号，我们可能会与您取得进一步的联系。
 
-**复现**
-第一步：
-第二步：
-第三步：
+非常感谢您的反馈！
