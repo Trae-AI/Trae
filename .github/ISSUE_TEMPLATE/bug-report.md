@@ -11,6 +11,7 @@ Hello, to further improve the efficiency of handling bugs, we have tried using F
 
 🔗 Collection form link: https://bytedance.larkoffice.com/share/base/form/shrcnDFG2R6qqguSROt9GYUnSTc
 
-⚠️ After filling out the form, please pay attention to the Feishu account you used for filling out the form. We may contact you further.
+⚠️ After filling out the questionnaire, do not repeat the issue
+⚠️ Please pay attention to the Feishu account you used for filling out the form. We may contact you further.
 
 Thank you very much for your feedback!

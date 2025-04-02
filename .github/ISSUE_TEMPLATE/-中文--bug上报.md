@@ -11,6 +11,8 @@ assignees: Trae-AI-Admin
 
 🔗收集表链接：https://bytedance.larkoffice.com/share/base/form/shrcnDFG2R6qqguSROt9GYUnSTc
 
-⚠️ 在填写后，请留意您填写收集表所用的飞书账号，我们可能会与您取得进一步的联系。
+⚠️在填写问卷后，请勿重复发起Issue⚠️
+
+⚠️ 请留意您填写收集表所用的飞书账号，我们可能会与您取得进一步的联系。
 
 非常感谢您的反馈！
